@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityamhala3/java_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityamhala3/java_practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adityamhala3/java_practice/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityamhala3/java_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/adityamhala3/java_practice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/adityamhala3/java_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityamhala3/java_practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityamhala3/java_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityamhala3/java_practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityamhala3/java_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityamhala3/java_practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adityamhala3/java_practice/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityamhala3/java_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityamhala3/java_practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/adityamhala3/java_practice/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityamhala3/java_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityamhala3/java_practice/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/adityamhala3/java_practice/tree/master/0441-arranging-coins) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityamhala3/java_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -88,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityamhala3/java_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
