@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/adityamhala3/java_practice/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/adityamhala3/java_practice/tree/master/0441-arranging-coins) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adityamhala3/java_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityamhala3/java_practice/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adityamhala3/java_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
