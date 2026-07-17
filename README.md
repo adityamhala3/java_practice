@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/adityamhala3/java_practice/tree/master/1470-shuffle-the-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityamhala3/java_practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1732-find-the-highest-altitude](https://github.com/adityamhala3/java_practice/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/adityamhala3/java_practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityamhala3/java_practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/adityamhala3/java_practice/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/adityamhala3/java_practice/tree/master/1389-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/adityamhala3/java_practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityamhala3/java_practice/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
