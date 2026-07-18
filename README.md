@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/adityamhala3/java_practice/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityamhala3/java_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityamhala3/java_practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1859-sorting-the-sentence](https://github.com/adityamhala3/java_practice/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityamhala3/java_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/adityamhala3/java_practice/tree/master/0657-robot-return-to-origin) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityamhala3/java_practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/adityamhala3/java_practice/tree/master/1859-sorting-the-sentence) |
 ## Binary Search
 |  |
 | ------- |
