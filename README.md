@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityamhala3/java_practice/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/adityamhala3/java_practice/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/adityamhala3/java_practice/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/adityamhala3/java_practice/tree/master/1512-number-of-good-pairs) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityamhala3/java_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/adityamhala3/java_practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
