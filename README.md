@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/adityamhala3/java_practice/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityamhala3/java_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityamhala3/java_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityamhala3/java_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityamhala3/java_practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityamhala3/java_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/adityamhala3/java_practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityamhala3/java_practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityamhala3/java_practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adityamhala3/java_practice/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityamhala3/java_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityamhala3/java_practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1859-sorting-the-sentence](https://github.com/adityamhala3/java_practice/tree/master/1859-sorting-the-sentence) |
