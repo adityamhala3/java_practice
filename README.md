@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/adityamhala3/java_practice/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/adityamhala3/java_practice/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/adityamhala3/java_practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/adityamhala3/java_practice/tree/master/1920-build-array-from-permutation) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityamhala3/java_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/adityamhala3/java_practice/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/adityamhala3/java_practice/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/adityamhala3/java_practice/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/adityamhala3/java_practice/tree/master/1108-defanging-an-ip-address) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityamhala3/java_practice/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/adityamhala3/java_practice/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/adityamhala3/java_practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/adityamhala3/java_practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
