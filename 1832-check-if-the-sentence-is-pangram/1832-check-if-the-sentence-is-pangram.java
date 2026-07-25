@@ -22,7 +22,10 @@ class Solution {
         // }
         // return true;
         HashSet<Character> set=new HashSet<>();
-        
+        if(sentence.length()<26)
+        {
+            return false;
+        }
         for(int i=0;i<sentence.length();i++)
         {
             set.add(sentence.charAt(i));
