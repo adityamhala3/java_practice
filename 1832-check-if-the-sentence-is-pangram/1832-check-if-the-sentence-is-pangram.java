@@ -12,14 +12,28 @@ class Solution {
         // return true;
 
 
-        if(sentence.length()<26){
-            return false;
+        // if(sentence.length()<26){
+        //     return false;
+        // }
+        // for(char ch='a';ch<='z';ch++){
+        //     if(sentence.indexOf(ch)<0){
+        //         return false;
+        //     }
+        // }
+        // return true;
+        HashSet<Character> set=new HashSet<>();
+        
+        for(int i=0;i<sentence.length();i++)
+        {
+            set.add(sentence.charAt(i));
+            
         }
-        for(char ch='a';ch<='z';ch++){
-            if(sentence.indexOf(ch)<0){
-                return false;
-            }
+        if(set.size()==26){
+            return true;
         }
-        return true;
+
+        
+          return false;
+        
     }
 }
