@@ -11,7 +11,6 @@ class Solution {
        int t=0;
        for(int i:map.keySet()){
             if(map.get(i)>nums.length/2){
-                
                  t=i;
                  return i;
             }
