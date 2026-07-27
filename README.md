@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/adityamhala3/java_practice/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/adityamhala3/java_practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityamhala3/java_practice/tree/master/1929-concatenation-of-array) |
+| [2540-minimum-common-value](https://github.com/adityamhala3/java_practice/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityamhala3/java_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/adityamhala3/java_practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityamhala3/java_practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2540-minimum-common-value](https://github.com/adityamhala3/java_practice/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityamhala3/java_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityamhala3/java_practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2540-minimum-common-value](https://github.com/adityamhala3/java_practice/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adityamhala3/java_practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/adityamhala3/java_practice/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
