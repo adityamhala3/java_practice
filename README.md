@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adityamhala3/java_practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adityamhala3/java_practice/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adityamhala3/java_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/adityamhala3/java_practice/tree/master/0414-third-maximum-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityamhala3/java_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/adityamhala3/java_practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adityamhala3/java_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/adityamhala3/java_practice/tree/master/0441-arranging-coins) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adityamhala3/java_practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adityamhala3/java_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityamhala3/java_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/adityamhala3/java_practice/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/adityamhala3/java_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/adityamhala3/java_practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adityamhala3/java_practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Number Theory
 |  |
 | ------- |
