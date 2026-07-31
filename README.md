@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityamhala3/java_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityamhala3/java_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adityamhala3/java_practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/adityamhala3/java_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityamhala3/java_practice/tree/master/0189-rotate-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/adityamhala3/java_practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityamhala3/java_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adityamhala3/java_practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityamhala3/java_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
