@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adityamhala3/java_practice/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/adityamhala3/java_practice/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
