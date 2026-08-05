@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/adityamhala3/java_practice/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/adityamhala3/java_practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/adityamhala3/java_practice/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/adityamhala3/java_practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/adityamhala3/java_practice/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityamhala3/java_practice/tree/master/0628-maximum-product-of-three-numbers) |
