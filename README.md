@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityamhala3/java_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0832-flipping-an-image](https://github.com/adityamhala3/java_practice/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/adityamhala3/java_practice/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/adityamhala3/java_practice/tree/master/1051-height-checker) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/adityamhala3/java_practice/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/adityamhala3/java_practice/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/adityamhala3/java_practice/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/adityamhala3/java_practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/adityamhala3/java_practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityamhala3/java_practice/tree/master/1929-concatenation-of-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adityamhala3/java_practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityamhala3/java_practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/adityamhala3/java_practice/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityamhala3/java_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/adityamhala3/java_practice/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/adityamhala3/java_practice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityamhala3/java_practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/adityamhala3/java_practice/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/adityamhala3/java_practice/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/adityamhala3/java_practice/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
