@@ -244,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/adityamhala3/java_practice/tree/master/0877-stone-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
