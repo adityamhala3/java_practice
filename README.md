@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/adityamhala3/java_practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityamhala3/java_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/adityamhala3/java_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityamhala3/java_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityamhala3/java_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/adityamhala3/java_practice/tree/master/1389-create-target-array-in-the-given-order) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/adityamhala3/java_practice/tree/master/0645-set-mismatch) |
+| [1331-rank-transform-of-an-array](https://github.com/adityamhala3/java_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityamhala3/java_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/adityamhala3/java_practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityamhala3/java_practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/adityamhala3/java_practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/adityamhala3/java_practice/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/adityamhala3/java_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityamhala3/java_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityamhala3/java_practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
