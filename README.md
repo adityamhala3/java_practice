@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/adityamhala3/java_practice/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityamhala3/java_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/adityamhala3/java_practice/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/adityamhala3/java_practice/tree/master/0832-flipping-an-image) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adityamhala3/java_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/adityamhala3/java_practice/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityamhala3/java_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/adityamhala3/java_practice/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/adityamhala3/java_practice/tree/master/0905-sort-array-by-parity) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/adityamhala3/java_practice/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/adityamhala3/java_practice/tree/master/0611-valid-triangle-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityamhala3/java_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/adityamhala3/java_practice/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityamhala3/java_practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/adityamhala3/java_practice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityamhala3/java_practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/adityamhala3/java_practice/tree/master/0611-valid-triangle-number) |
 | [0832-flipping-an-image](https://github.com/adityamhala3/java_practice/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/adityamhala3/java_practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityamhala3/java_practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -275,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityamhala3/java_practice/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/adityamhala3/java_practice/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
