@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adityamhala3/java_practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adityamhala3/java_practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/adityamhala3/java_practice/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityamhala3/java_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityamhala3/java_practice/tree/master/0287-find-the-duplicate-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/adityamhala3/java_practice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/adityamhala3/java_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityamhala3/java_practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/adityamhala3/java_practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/adityamhala3/java_practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityamhala3/java_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/adityamhala3/java_practice/tree/master/2951-find-the-peaks) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/adityamhala3/java_practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
