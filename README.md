@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/adityamhala3/java_practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityamhala3/java_practice/tree/master/1929-concatenation-of-array) |
 | [2540-minimum-common-value](https://github.com/adityamhala3/java_practice/tree/master/2540-minimum-common-value) |
+| [2951-find-the-peaks](https://github.com/adityamhala3/java_practice/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityamhala3/java_practice/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/adityamhala3/java_practice/tree/master/0611-valid-triangle-number) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/adityamhala3/java_practice/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
