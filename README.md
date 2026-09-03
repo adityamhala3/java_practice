@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/adityamhala3/java_practice/tree/master/1929-concatenation-of-array) |
 | [2540-minimum-common-value](https://github.com/adityamhala3/java_practice/tree/master/2540-minimum-common-value) |
 | [2951-find-the-peaks](https://github.com/adityamhala3/java_practice/tree/master/2951-find-the-peaks) |
+| [3875-construct-uniform-parity-array-i](https://github.com/adityamhala3/java_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/adityamhala3/java_practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityamhala3/java_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityamhala3/java_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/adityamhala3/java_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
